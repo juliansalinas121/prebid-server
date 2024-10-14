@@ -55,3 +55,8 @@ prebid-server.iml
 *.swp
 *.swo
 pbs.yaml
+
+# Deployment and config files to ignore
+.elasticbeanstalk/
+Procfile
+pbs.yaml
