@@ -1,5 +1,5 @@
 global:
-  application_name: roundhouseads-prebid
+  application_name: pbsv4
   default_region: us-east-1
-  profile: eb-cli  # Ensure that this is correctly configured
+  profile: aws-elasticbeanstalk-ec2-role
   workspace_type: Application
